@@ -90,6 +90,5 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 ** :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-** :PROPERTIES:
-:logseq.order-list-type: number
-:END:
+** Termux muss ein Passwort haben: #Termux
+***
