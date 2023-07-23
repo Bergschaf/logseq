@@ -65,13 +65,16 @@ CLOCK: [2023-07-23 Sun 16:22:24]
 :LOGBOOK:
 CLOCK: [2023-07-23 Sun 16:22:29]
 :END:
+** TODO Zettel
+*** NOW Fahrkarte
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:42:01]
+:END:
+*** NOW Geldbeutel
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:42:05]
+:END:
 ***
 **
 **
 **
-**
-*
-*
-*
-*
-*
