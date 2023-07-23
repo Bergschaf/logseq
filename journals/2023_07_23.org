@@ -80,7 +80,8 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 **
 * *Logseq Andriod* #Android #Termux
 ** https://github.com/CharlesChiuGit/Logseq-Git-Sync-101/wiki/For-Android-users
-** Neuer ssh key mit
+**
+* *Git Authentication mit ssh*
 **
 * *Android SSH* #Android #Termux #ssh
 ** Android: install ~openssh~
