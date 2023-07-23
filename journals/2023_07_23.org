@@ -57,7 +57,16 @@ CLOCK: [2023-07-23 Sun 16:21:08]
 :LOGBOOK:
 CLOCK: [2023-07-23 Sun 16:21:29]--[2023-07-23 Sun 16:21:52] =>  00:00:23
 :END:
+*** NOW Pulli
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:22:24]
+:END:
+*** NOW Regenjacke
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:22:29]
+:END:
 ***
+** sus
 **
 **
 **
