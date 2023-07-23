@@ -87,6 +87,16 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
- Termux muss ein Passwort haben: #Termux
+** Termux muss ein Passwort haben:
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 *** ~passwd~
-***
+** Start ssh deamon: ~sshd~
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** Get the username of
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
