@@ -1,3 +1,4 @@
 * *Git Authentication mit ssh* #Git #Android #ssh
 ** Neuer ssh key mit ~ssh-keygen -t ed25519 -C “user@example.com”~
-**
+** Public key ist in ~.ssh/id_ed25519.pub~
+** Public key zu github hinzufügen mit
