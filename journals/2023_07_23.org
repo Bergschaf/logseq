@@ -78,4 +78,5 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 **
 **
 **
-* * Logseq
+* Logseq Andriod #Android #Termux
+**
