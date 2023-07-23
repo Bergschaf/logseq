@@ -104,6 +104,10 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+** Command am PC: ~ssh username@ip -p 8022~
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ** :PROPERTIES:
 :logseq.order-list-type: number
 :END:
