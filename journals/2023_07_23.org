@@ -82,9 +82,12 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 ** https://github.com/CharlesChiuGit/Logseq-Git-Sync-101/wiki/For-Android-users
 **
 **
-* *Android SSH*
-** ~pkg install openssh~ -> Android
+* *Android SSH* #Android
+** Android: install ~openssh~
 :PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** :PROPERTIES:
 :logseq.order-list-type: number
 :END:
 ** :PROPERTIES:
