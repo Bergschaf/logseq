@@ -32,9 +32,9 @@ CLOCK: [2023-07-23 Sun 16:15:32]--[2023-07-23 Sun 16:15:32] =>  00:00:00
 *
 * $$E = mc_{2}^{uuu} \cdot \sigma \lambda$$
 * #Packliste #KIT
-** NOW Technik
+** TODO Technik
 :LOGBOOK:
-CLOCK: [2023-07-23 Sun 16:19:44]
+CLOCK: [2023-07-23 Sun 16:19:44]--[2023-07-23 Sun 16:21:47] =>  00:02:03
 :END:
 *** NOW Laptop
 :LOGBOOK:
@@ -53,7 +53,11 @@ CLOCK: [2023-07-23 Sun 16:20:53]
 CLOCK: [2023-07-23 Sun 16:21:08]
 :END:
 ***
-**
+** TODO Kleidung
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:21:29]--[2023-07-23 Sun 16:21:52] =>  00:00:23
+:END:
+***
 **
 **
 **
