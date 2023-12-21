@@ -8,5 +8,13 @@
 	- ## Gegeben
 	  Gebiet in Form eines Polygons
 	- ## Ziel
-	  Ein Gesundheitszentrum und möglichst viele Ortschaften so positionieren, dass die weitergabe von Krankheiten nicht möglich ist
+	  Ein Gesundheitszentrum und möglichst viele Ortschaften so positionieren, dass die Weitergabe von Krankheiten nicht möglich ist
+- # Lösungsansatz
+  -> Aufteilung in zwei Unterprobleme
 -
+-
+- # Mögliche Erweiterungen
+	- ## Mehrere Gesundheitszentren
+	- ## Änderungen des Gebiets
+	  Flüsse, über die keine Krankheit übertragen werden kann
+	  wind, der krankheiten in eine bestimmte Richtung besser überträgt
