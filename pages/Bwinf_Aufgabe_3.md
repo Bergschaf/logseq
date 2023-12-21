@@ -12,6 +12,7 @@
 - # Lösungsansatz
   -> Aufteilung in zwei Unterprobleme
 	- # Möglichst viele Ortschaften im Einflussgebiet des Gesundheitszentrums
+	  #circle_packing_in_circle
 	- # Möglichst viele Ortschaften + Gesundheitszentrum im Gebiet
 -
 - # Mögliche Erweiterungen
