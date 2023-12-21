@@ -1,5 +1,5 @@
 # Die Siedler
-#circle_packing
+#circle_packing #Bwinf
 - # Aufgabenstellung
 	- ## Regeln
 	  Mindestabstand zwischen zwei Ortschaften: 10km
