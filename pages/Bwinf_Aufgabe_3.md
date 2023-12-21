@@ -11,7 +11,8 @@
 	  Ein Gesundheitszentrum und möglichst viele Ortschaften so positionieren, dass die Weitergabe von Krankheiten nicht möglich ist
 - # Lösungsansatz
   -> Aufteilung in zwei Unterprobleme
--
+	- # Möglichst viele Ortschaften im Einflussgebiet des Gesundheitszentrums
+	- # Möglichst viele Ortschaften + Gesundheitszentrum im Gebiet
 -
 - # Mögliche Erweiterungen
 	- ## Mehrere Gesundheitszentren
