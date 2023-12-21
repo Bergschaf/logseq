@@ -9,6 +9,13 @@
 	  Gebiet in Form eines Polygons
 	- ## Ziel
 	  Ein Gesundheitszentrum und möglichst viele Ortschaften so positionieren, dass die Weitergabe von Krankheiten nicht möglich ist
+-
+- # Visualisierung
+	- ## Einfachste Methode
+	  #python #PIL #ImageDraw
+	  Polygon mit ImageDraw auf Bild zeichnen
+	-
+-
 - # Lösungsansatz
   -> Aufteilung in zwei Unterprobleme
 	- # Möglichst viele Ortschaften im Einflussgebiet des Gesundheitszentrums
