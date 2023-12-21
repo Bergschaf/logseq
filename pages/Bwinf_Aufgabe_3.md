@@ -18,8 +18,9 @@
 -
 - # Lösungsansatz
   -> Aufteilung in zwei Unterprobleme
+  <ins>-> Die Ortschaften dürfen bis genau an den Rand des Gebietes liegen</ins>
+  <ins>-> Die Ortschaften dürfen innen und außen genau am Rand des Gesundheitszentrums liegen</ins>
 	- # Möglichst viele Ortschaften im Einflussgebiet des Gesundheitszentrums
-	  #circle_packing_in_circle
 	- # Möglichst viele Ortschaften + Gesundheitszentrum im Gebiet
 -
 - # Mögliche Erweiterungen
