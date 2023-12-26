@@ -8,4 +8,6 @@
   LIBS="-l:libc.a"
   --disable-ipv6
    config site dings https://unix.stackexchange.com/questions/342925/cross-compiling-python
-- turned off: blibz2 (oder so), lzma, blake2
+- turned off: blibz2 (oder so), lzma, blake2, nis
+-
+- CC=riscv64-unknown-linux-gnu-gcc ./configure --host x86-linux CFLAGS="-fPIC" --prefix=/home/bergschaf/riscv64_local/ --libdir=/home/bergschaf/riscv64_local/lib/ --includedir=/home/bergschaf/riscv64_local/include/
