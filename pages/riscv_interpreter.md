@@ -5,3 +5,4 @@
 	- **instruction execute** (EX)
 	- **memory access** (MEM)
 	- **write back** (WB)
+-
