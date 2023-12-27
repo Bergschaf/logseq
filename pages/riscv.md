@@ -23,5 +23,8 @@
 	  programming operating systems or bare metal embedded systems. Thus, 
 	  Volume II: Privileged Architecture covers information about these 
 	  aspects and relevant extensions.
+	- ## Volume 1
+	  https://drive.google.com/file/d/1s0lZxUZaa7eV_O0_WsZzaurFLLww7ou5/view
+	-
 	- #riscv_interpreter
 -
