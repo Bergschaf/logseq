@@ -25,6 +25,10 @@
 	  aspects and relevant extensions.
 	- ## Volume 1
 	  https://drive.google.com/file/d/1s0lZxUZaa7eV_O0_WsZzaurFLLww7ou5/view
-	-
+		- There is no dedicated stack pointer or subroutine return address link register in the Base Integer
+		  ISA; the instruction encoding allows any x register to be used for these purposes. However, the
+		  standard software calling convention uses register x1 to hold the return address for a call, with
+		  register x5 available as an alternate link register. The standard calling convention uses register
+		  x2 as the stack pointer.
 	- #riscv_interpreter
 -
