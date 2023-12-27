@@ -7,7 +7,7 @@
 -
 - # RISC-V Course
   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFD117x+3T2022/block-v1:LinuxFoundationX+LFD117x+3T2022+type@sequential+block@212f8f8499684c80ab82adff8f194c48/block-v1:LinuxFoundationX+LFD117x+3T2022+type@vertical+block@91cb35f1cf1843699d6437d8a0b98b6a
--
+- # Hottes Riscv visualisierungs ding
 - # RISC-V Manual
   https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md
 - # RISC-V specification
