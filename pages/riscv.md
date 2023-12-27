@@ -1,4 +1,6 @@
 - https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+- {{video https://www.youtube.com/watch?v=jOmWZbJoPCU}}
+-
 - # Subsets and Extensions
 	- RV64G -> default target for compilers
 - TDMgfy715#risc
@@ -34,4 +36,6 @@
 	- #riscv_interpreter
 - https://five-embeddev.com/riscv-isa-manual/latest/rv32.html#rv32
 - # Instruction Formats
+  ![Instruction Formats](https://five-embeddev.com/riscv-isa-manual/latest/rv32_01.png)
+-
 -
