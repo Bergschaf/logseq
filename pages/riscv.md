@@ -1,2 +1,3 @@
-# Subsets and Extensions
-	- RV64G -> default target
+- https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+- # Subsets and Extensions
+	- RV64G -> default target for compilers
