@@ -10,4 +10,15 @@
 -
 - # RISC-V Manual
   https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md
--
+- # RISC-V specification
+	- The RISC-V Instruction Set Manual comes in two volumes. Volume I: 
+	  User-Level ISA contains general information about RISC-V, base 
+	  instruction sets for 32, 64, and 128 integer architectures, standard 
+	  extensions of the base instruction sets, and conventions. Generally 
+	  speaking, the first volume covers all the necessary information to write
+	   assembly user programs. User programs do not deal with so-called 
+	  privileged functionality. Privileged functionality is required for 
+	  programming operating systems or bare metal embedded systems. Thus, 
+	  Volume II: Privileged Architecture covers information about these 
+	  aspects and relevant extensions.
+	-
