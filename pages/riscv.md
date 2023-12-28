@@ -1,4 +1,5 @@
 - https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+- #riscv_video
 - {{video https://www.youtube.com/watch?v=jOmWZbJoPCU}}
 -
 - # Subsets and Extensions
