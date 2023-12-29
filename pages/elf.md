@@ -1,1 +1,3 @@
-- https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+- #riscv
+- ttps://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+-
