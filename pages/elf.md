@@ -3,3 +3,7 @@
 -
 - file filename
 - use ``ldd`` to see the external libaries (``lddtree``)
+-
+- ## How to load elf into Memory
+  https://ics.uci.edu/~aburtsev/238P/hw/hw3-elf/hw3-elf.html
+-
