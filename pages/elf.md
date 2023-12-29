@@ -1,0 +1,1 @@
+- https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
