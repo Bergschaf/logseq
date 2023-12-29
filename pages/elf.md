@@ -1,8 +1,5 @@
 - #riscv
 - https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 -
-- check if the file is dynamically or statically linked 
-  ```bash
-  file filename
-  ```
-- use ``ldd`` to see the external libaries
+- file filename
+- use ``ldd`` to see the external libaries (``lddtree``)
