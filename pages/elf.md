@@ -5,3 +5,4 @@
   ```bash
   file filename
   ```
+- use ``ldd`` to see the external libaries
