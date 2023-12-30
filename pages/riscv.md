@@ -40,3 +40,6 @@
   ![Instruction Formats](https://five-embeddev.com/riscv-isa-manual/latest/rv32_01.png)
 -
 -
+-
+- riscv64-unknown-linux-gnu-gcc -static -march=rv64i test.c -o test -mabi=lp64 --sysroot=/home/bergschaf/riscv64_gamzo/musl_build/install
+-
