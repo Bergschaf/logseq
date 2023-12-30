@@ -5,4 +5,5 @@
 - https://gpages.juszkiewicz.com.pl/syscalls-table/syscalls.html
 -
 - https://www.man7.org/linux/man-pages/man2/write.2.html
+- syscall source -> https://github.com/westerndigitalcorporation/RISC-V-Linux/blob/master/riscv-pk/pk/syscall.c
 -
