@@ -36,6 +36,11 @@
 		  x2 as the stack pointer.
 	- #riscv_interpreter
 - https://five-embeddev.com/riscv-isa-manual/latest/rv32.html#rv32
+- # Compiling
+	- ```bash
+	  home/bergschaf/Downloads/riscv64--glibc--bleeding-edge-2020.08-1/bin/riscv64-linux-gcc -static test.c -o test -march=rv64i -mabi=lp64	
+	  ```
+-
 - # Instruction Formats
   ![Instruction Formats](https://five-embeddev.com/riscv-isa-manual/latest/rv32_01.png)
 -
