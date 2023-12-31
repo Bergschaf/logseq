@@ -11,3 +11,5 @@
 - turned off: blibz2 (oder so), lzma, blake2, nis
 -
 - CC=riscv64-unknown-linux-gnu-gcc ./configure --host x86-linux CFLAGS="-fPIC" --prefix=/home/bergschaf/riscv64_local/ --libdir=/home/bergschaf/riscv64_local/lib/ --includedir=/home/bergschaf/riscv64_local/include/
+-
+- --disable-test-modules
