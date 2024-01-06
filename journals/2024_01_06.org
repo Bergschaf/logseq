@@ -1,6 +1,5 @@
-* #wayland #hyprland #discord #screen_sharing https://wiki.hyprland.org/0.19.2beta/Useful-Utilities/Hyprland-desktop-portal/
+* #wayland #hyprland #discord #screen_sharing https://wiki.hyprland.org/0.19.2beta/Useful-Utilities/Hyprland-desktop-portal
 :PROPERTIES:
 :id: 65994ba7-582e-4d6e-a0e3-3415c0856ef2
 :END:
-* Test android
--
+*
