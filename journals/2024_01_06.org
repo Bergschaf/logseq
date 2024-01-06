@@ -1,2 +1,5 @@
-*
+* #wayland #hyprland #discord #screen_sharing
+:PROPERTIES:
+:id: 65994ba7-582e-4d6e-a0e3-3415c0856ef2
+:END:
 * Test android
