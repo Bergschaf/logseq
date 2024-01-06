@@ -103,7 +103,7 @@ CLOCK: [2023-07-23 Sun 16:42:05]
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-** Get the ip of the Android device with ~ifconfig~
+*** Get the ip of the Android device with ~ifconfig~
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
