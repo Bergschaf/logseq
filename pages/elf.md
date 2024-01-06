@@ -1,5 +1,7 @@
 - #riscv
 - https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+- # Gute beschreibung wo was ist
+  https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
 -
 - file filename
 - use ``ldd`` to see the external libaries (``lddtree``)
