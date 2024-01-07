@@ -1,0 +1,2 @@
+- #virtual_camera see arch wiki, #flatpak version works but v2l4lloopback pacage has to be installed
+-
