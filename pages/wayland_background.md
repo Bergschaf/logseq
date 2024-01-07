@@ -1,0 +1,4 @@
+- #hyprland
+- Zb app oder shader als wallpaper
+- Dafür wayland docs verstehen
+-

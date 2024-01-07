@@ -1,0 +1,2 @@
+- Mischpult am pc mit dem man alle lautstärken einstellen kann
+- Knopf um mikrophon source zu wechseln

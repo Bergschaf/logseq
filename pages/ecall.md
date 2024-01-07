@@ -2,9 +2,9 @@
 - #riscv
 - eher nicht -> https://inst.eecs.berkeley.edu/~cs61c/fa22/labs/lab04/
 -
-- https://gpages.juszkiewicz.com.pl/syscalls-table/syscalls.html
--
-- https://www.man7.org/linux/man-pages/man2/write.2.html
-- syscall source -> https://github.com/westerndigitalcorporation/RISC-V-Linux/blob/master/riscv-pk/pk/syscall.c
-- #trace_test
-- #
+- # Tabelle mit allen Linux syscalls
+	- https://gpages.juszkiewicz.com.pl/syscalls-table/syscalls.html
+	- https://www.man7.org/linux/man-pages/man2/write.2.html
+- # syscall source
+	- https://github.com/westerndigitalcorporation/RISC-V-Linux/blob/master/riscv-pk/pk/syscall.c
+- (#trace_test)
