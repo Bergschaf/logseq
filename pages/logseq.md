@@ -1,2 +1,3 @@
-- #zotero
+- TODO #zotero
 	- https://blog.logseq.com/citation-needed-how-to-use-logseqs-zotero-integration/
+	-
