@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+eval $(ssh-agent)
+source ~/../usr/bin/source-ssh-agent # path might varied based on your system and brand
+cd storage/downloads/logseq  # eg: cd ~/documents/MyGraph
+git pull
